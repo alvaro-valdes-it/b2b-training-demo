@@ -48,7 +48,7 @@ const translations = {
         onlineFeat4: "Train anywhere, anytime",
         startOnline: "Start Online Program",
 
-        gymNote: "Gym membership required: $83/month, paid directly to the gym",
+        gymNote: "Does not include gym membership fee",
 
         aboutTitle: "About B2B Training",
         aboutText1: "I am a dedicated and professional personal trainer committed to helping individuals achieve optimal health, fitness, and wellness. With years of experience and a passion for what I do, I provide customized training programs tailored to meet the unique needs and goals of each client.",
@@ -59,7 +59,7 @@ const translations = {
 
         faqTitle: "Frequently Asked Questions",
         faqQ1: "Do I need a gym membership?",
-        faqA1: "Yes, for one-on-one and small group training, an active gym membership is required and is paid directly to the gym ($83/month). Online training does not require a gym membership.",
+        faqA1: "Yes, for one-on-one and small group training, an active gym membership is required and is not included in the session price. Online training does not require a gym membership.",
         faqQ2: "Where do the sessions take place?",
         faqA2: "In-person sessions take place at our partner gym in Miami Lakes. Online training can be done from anywhere.",
         faqQ3: "Is a deposit required to book?",
@@ -74,7 +74,7 @@ const translations = {
         faqA7: "Yes, you can move between one-on-one, small group, or online training as your schedule and goals change.",
 
         contactTitle: "Contact",
-        igHandle: "@[YOUR-IG]",
+        igHandle: "@b2b_training.miami",
         instagramButton: "View Instagram",
         emailButton: "Send Email",
         footerText: "© 2026 B2B Training Miami. All rights reserved."
@@ -129,7 +129,7 @@ const translations = {
         onlineFeat4: "Entrena donde quieras, cuando quieras",
         startOnline: "Iniciar Programa Online",
 
-        gymNote: "Se requiere membresía de gimnasio: $83/mes, pagados directamente al gimnasio",
+        gymNote: "No incluye la membresía del gimnasio",
 
         aboutTitle: "Sobre B2B Training",
         aboutText1: "Soy un entrenador personal dedicado y profesional, comprometido a ayudar a las personas a alcanzar una salud, condición física y bienestar óptimos. Con años de experiencia y pasión por lo que hago, ofrezco programas de entrenamiento personalizados según las necesidades y metas de cada cliente.",
@@ -140,7 +140,7 @@ const translations = {
 
         faqTitle: "Preguntas Frecuentes",
         faqQ1: "¿Necesito membresía de gimnasio?",
-        faqA1: "Sí, para entrenamiento uno a uno y grupal se requiere una membresía activa de gimnasio, pagada directamente al gimnasio ($83/mes). El entrenamiento online no la requiere.",
+        faqA1: "Sí, para entrenamiento uno a uno y grupal se requiere una membresía activa de gimnasio, la cual no está incluida en el precio de la sesión. El entrenamiento online no la requiere.",
         faqQ2: "¿Dónde se realizan las sesiones?",
         faqA2: "Las sesiones presenciales se realizan en nuestro gimnasio asociado en Miami Lakes. El entrenamiento online puede hacerse desde cualquier lugar.",
         faqQ3: "¿Se requiere depósito para reservar?",
@@ -155,7 +155,7 @@ const translations = {
         faqA7: "Sí, puedes cambiar entre entrenamiento uno a uno, grupal u online según tu horario y tus metas.",
 
         contactTitle: "Contacto",
-        igHandle: "@[YOUR-IG]",
+        igHandle: "@b2b_training.miami",
         instagramButton: "Ver Instagram",
         emailButton: "Enviar Email",
         footerText: "© 2026 B2B Training Miami. Todos los derechos reservados."
