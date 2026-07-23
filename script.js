@@ -25,7 +25,7 @@ const translations = {
         packagesTitle: "Plans & Pricing",
         oneOnOneTitle: "One-on-One Personal Training",
         oneOnOneSubtitle: "Premium Coaching",
-        oneOnOneAlt: "or $660/month (3 sessions a week, paid in full)",
+        oneOnOneAlt: "or $660/mo (3x/week, paid in full)",
         oneOnOneFeat1: "Fully personalized training",
         oneOnOneFeat2: "Direct coach supervision",
         oneOnOneFeat3: "Faster progress and accountability",
@@ -33,7 +33,7 @@ const translations = {
 
         groupTitle: "Small Group Class",
         groupSubtitle: "Most Accessible",
-        groupAlt: "or $480/month (4 sessions a week, paid in full)",
+        groupAlt: "or $480/mo (4x/week, paid in full)",
         groupFeat1: "Structured group workouts",
         groupFeat2: "Coaching and form correction",
         groupFeat3: "Motivation and consistency",
@@ -41,7 +41,7 @@ const translations = {
 
         onlineTitle: "Online Training",
         onlineSubtitle: "Best Value",
-        onlineAlt: "or $249/8 weeks",
+        onlineAlt: "or $249 for 8 weeks",
         onlineFeat1: "Weekly check-ins",
         onlineFeat2: "Personalized workouts",
         onlineFeat3: "Nutrition guidance",
@@ -107,7 +107,7 @@ const translations = {
         packagesTitle: "Planes y Precios",
         oneOnOneTitle: "Entrenamiento Personal Uno a Uno",
         oneOnOneSubtitle: "Coaching Premium",
-        oneOnOneAlt: "o $660/mes (3 sesiones por semana, pago completo)",
+        oneOnOneAlt: "o $660/mes (3x por semana, pago completo)",
         oneOnOneFeat1: "Entrenamiento totalmente personalizado",
         oneOnOneFeat2: "Supervisión directa del coach",
         oneOnOneFeat3: "Progreso más rápido y mayor responsabilidad",
@@ -115,7 +115,7 @@ const translations = {
 
         groupTitle: "Clase Grupal Pequeña",
         groupSubtitle: "Más Accesible",
-        groupAlt: "o $480/mes (4 sesiones por semana, pago completo)",
+        groupAlt: "o $480/mes (4x por semana, pago completo)",
         groupFeat1: "Entrenamientos grupales estructurados",
         groupFeat2: "Coaching y corrección de técnica",
         groupFeat3: "Motivación y constancia",
@@ -123,7 +123,7 @@ const translations = {
 
         onlineTitle: "Entrenamiento Online",
         onlineSubtitle: "Mejor Valor",
-        onlineAlt: "o $249/8 semanas",
+        onlineAlt: "o $249 por 8 semanas",
         onlineFeat1: "Seguimiento semanal",
         onlineFeat2: "Entrenamientos personalizados",
         onlineFeat3: "Orientación nutricional",
