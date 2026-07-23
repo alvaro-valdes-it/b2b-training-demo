@@ -9,18 +9,18 @@ const translations = {
         navContact: "Contact",
         navContactBtn: "Contact Us",
 
-        heroTitle: "Online Coaching + Local Training in Miami Lakes — Results in 8 Weeks or Less",
+        heroTitle: "Online Coaching + Local Training in Hialeah — Results in 8 Weeks or Less",
         heroText: "Tailored workouts, weekly check-ins, and nutrition support designed for your goals.",
         heroWhatsapp: "Get Your Free Session",
         heroWork: "See Transformations",
 
         servicesTitle: "Services",
         service1Title: "One-on-One Personal Training",
-        service1Text: "Certified personal trainers offering one-on-one sessions to help you reach your fitness goals through personalized workouts, nutritional guidance, and ongoing motivation and support.",
+        service1Text: "Work directly with a certified ISSA trainer on a program built entirely around you — your goals, your schedule, your starting point. Every session means hands-on coaching, real-time form correction, and a plan that evolves as you progress.",
         service2Title: "Small Group Classes",
-        service2Text: "Energizing, fun group fitness classes led by experienced instructors. Small group training increases camaraderie, accountability, and success for individuals in the group.",
+        service2Text: "Train alongside a small crew chasing the same goals you are. You still get expert coaching and form correction every session, plus the extra push that comes from sweating it out as a group.",
         service3Title: "Online Training",
-        service3Text: "A convenient, flexible, and accessible approach to fitness. We begin with a consultation to discuss your goals, history, health conditions, and lifestyle factors.",
+        service3Text: "A fully personalized program, weekly check-ins, and nutrition guidance — wherever you are. We start with a real conversation about your goals, history, and lifestyle before writing a single workout.",
 
         packagesTitle: "Plans & Pricing",
         oneOnOneTitle: "One-on-One Personal Training",
@@ -51,8 +51,8 @@ const translations = {
         gymNote: "Does not include gym membership fee",
 
         aboutTitle: "About B2B Training",
-        aboutText1: "I am a dedicated and professional personal trainer committed to helping individuals achieve optimal health, fitness, and wellness. With years of experience and a passion for what I do, I provide customized training programs tailored to meet the unique needs and goals of each client.",
-        aboutText2: "Whether you're looking to lose weight, build strength, or improve overall well-being, I am here to guide and support you every step of the way.",
+        aboutText1: "I'm a certified ISSA personal trainer with years of hands-on experience helping people build strength, lose weight, and rebuild confidence in the gym. Every program I write is built around your body, your schedule, and your goals — never a generic template.",
+        aboutText2: "Whether you're walking into a gym for the first time or chasing a specific number on the scale or the bar, I'll be in your corner coaching every rep, every check-in, every step.",
 
         transformationsTitle: "Transformations",
         transformationsIntro: "Real client progress — measurable results from people who followed the plan.",
@@ -61,7 +61,7 @@ const translations = {
         faqQ1: "Do I need a gym membership?",
         faqA1: "Yes, for one-on-one and small group training, an active gym membership is required and is not included in the session price. Online training does not require a gym membership.",
         faqQ2: "Where do the sessions take place?",
-        faqA2: "In-person sessions take place at our partner gym in Miami Lakes. Online training can be done from anywhere.",
+        faqA2: "In-person sessions take place at our partner gym in Hialeah. Online training can be done from anywhere.",
         faqQ3: "Is a deposit required to book?",
         faqA3: "A deposit may be required to reserve your session time, applied toward your total package price.",
         faqQ4: "What is the cancellation policy?",
@@ -77,7 +77,8 @@ const translations = {
         igHandle: "@b2b_training.miami",
         instagramButton: "View Instagram",
         emailButton: "Send Email",
-        footerText: "© 2026 B2B Training Miami. All rights reserved."
+        footerText: "© 2026 B2B Training Miami. All rights reserved.",
+        demoNotice: "This is a demo website built to showcase web design services — not an active training business."
     },
 
     es: {
@@ -90,18 +91,18 @@ const translations = {
         navContact: "Contacto",
         navContactBtn: "Contáctanos",
 
-        heroTitle: "Entrenamiento Online + Presencial en Miami Lakes — Resultados en 8 Semanas o Menos",
+        heroTitle: "Entrenamiento Online + Presencial en Hialeah — Resultados en 8 Semanas o Menos",
         heroText: "Entrenamientos personalizados, seguimiento semanal y apoyo nutricional diseñado para tus metas.",
         heroWhatsapp: "Reserva Tu Sesión Gratis",
         heroWork: "Ver Transformaciones",
 
         servicesTitle: "Servicios",
         service1Title: "Entrenamiento Personal Uno a Uno",
-        service1Text: "Entrenadores personales certificados que ofrecen sesiones individuales para ayudarte a alcanzar tus metas mediante entrenamientos personalizados, orientación nutricional y motivación constante.",
+        service1Text: "Trabaja directamente con un entrenador certificado por ISSA en un programa construido completamente en torno a ti — tus metas, tu horario, tu punto de partida. Cada sesión incluye coaching práctico, corrección de técnica en tiempo real y un plan que evoluciona con tu progreso.",
         service2Title: "Clases Grupales Pequeñas",
-        service2Text: "Clases grupales dinámicas y divertidas guiadas por instructores con experiencia. El entrenamiento en grupo pequeño aumenta la camaradería, la constancia y el éxito de cada participante.",
+        service2Text: "Entrena junto a un grupo pequeño que persigue las mismas metas que tú. Sigues recibiendo coaching experto y corrección de técnica en cada sesión, además de la energía extra de entrenar en grupo.",
         service3Title: "Entrenamiento Online",
-        service3Text: "Un enfoque conveniente, flexible y accesible hacia el fitness. Comenzamos con una consulta para hablar sobre tus metas, historial, condiciones de salud y estilo de vida.",
+        service3Text: "Un programa totalmente personalizado, seguimiento semanal y orientación nutricional — desde donde estés. Comenzamos con una conversación real sobre tus metas, tu historial y tu estilo de vida antes de escribir un solo entrenamiento.",
 
         packagesTitle: "Planes y Precios",
         oneOnOneTitle: "Entrenamiento Personal Uno a Uno",
@@ -132,8 +133,8 @@ const translations = {
         gymNote: "No incluye la membresía del gimnasio",
 
         aboutTitle: "Sobre B2B Training",
-        aboutText1: "Soy un entrenador personal dedicado y profesional, comprometido a ayudar a las personas a alcanzar una salud, condición física y bienestar óptimos. Con años de experiencia y pasión por lo que hago, ofrezco programas de entrenamiento personalizados según las necesidades y metas de cada cliente.",
-        aboutText2: "Ya sea que busques bajar de peso, ganar fuerza o mejorar tu bienestar general, estoy aquí para guiarte y apoyarte en cada paso del camino.",
+        aboutText1: "Soy entrenador personal certificado por ISSA, con años de experiencia práctica ayudando a personas a ganar fuerza, bajar de peso y recuperar la confianza en el gimnasio. Cada programa que escribo se construye en torno a tu cuerpo, tu horario y tus metas — nunca una plantilla genérica.",
+        aboutText2: "Ya sea que estés entrando a un gimnasio por primera vez o persiguiendo un número específico en la báscula o la barra, estaré en tu esquina guiándote en cada repetición, cada seguimiento, cada paso.",
 
         transformationsTitle: "Transformaciones",
         transformationsIntro: "Progreso real de clientes — resultados medibles de personas que siguieron el plan.",
@@ -142,7 +143,7 @@ const translations = {
         faqQ1: "¿Necesito membresía de gimnasio?",
         faqA1: "Sí, para entrenamiento uno a uno y grupal se requiere una membresía activa de gimnasio, la cual no está incluida en el precio de la sesión. El entrenamiento online no la requiere.",
         faqQ2: "¿Dónde se realizan las sesiones?",
-        faqA2: "Las sesiones presenciales se realizan en nuestro gimnasio asociado en Miami Lakes. El entrenamiento online puede hacerse desde cualquier lugar.",
+        faqA2: "Las sesiones presenciales se realizan en nuestro gimnasio asociado en Hialeah. El entrenamiento online puede hacerse desde cualquier lugar.",
         faqQ3: "¿Se requiere depósito para reservar?",
         faqA3: "Puede requerirse un depósito para reservar tu horario, el cual se aplica al precio total del paquete.",
         faqQ4: "¿Cuál es la política de cancelación?",
@@ -158,7 +159,8 @@ const translations = {
         igHandle: "@b2b_training.miami",
         instagramButton: "Ver Instagram",
         emailButton: "Enviar Email",
-        footerText: "© 2026 B2B Training Miami. Todos los derechos reservados."
+        footerText: "© 2026 B2B Training Miami. Todos los derechos reservados.",
+        demoNotice: "Este es un sitio web de demostración creado para mostrar servicios de diseño web — no es un negocio de entrenamiento activo."
     }
 };
 
@@ -222,7 +224,7 @@ languageButtons.forEach((button) => {
 const savedLanguage = localStorage.getItem("selectedLanguage") || "en";
 setLanguage(savedLanguage);
 
-const galleryImages = document.querySelectorAll(".transformation-pair img");
+const galleryImages = document.querySelectorAll(".transformation-card img");
 
 let currentImageIndex = 0;
 let touchStartX = 0;
@@ -331,7 +333,7 @@ function handleSwipe() {
 }
 
 const revealItems = document.querySelectorAll(
-    "section h2, .section-intro, .service-card, .card, .transformation-pair, .faq-container details, .about-photo, .about-text p, #contacto p"
+    "section h2, .section-intro, .service-card, .card, .transformation-card, .faq-container details, .about-photo, .about-text p, #contacto p"
 );
 
 revealItems.forEach((item) => {
